@@ -1,4 +1,4 @@
-# Fintech Transaction Intelligence
+# Fintech 
 
 Dashboard de Ciência de Dados para tratamento, análise e detecção de anomalias em transações financeiras.
 
@@ -22,7 +22,7 @@ A aplicação implementa um pipeline completo para:
 ## Estrutura
 
 ```text
-fintech-transaction-intelligence/
+Fintech/
 ├── app.py
 ├── gerar_dados.py
 ├── requirements.txt
